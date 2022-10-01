@@ -17,6 +17,11 @@ jobs:
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
 
+      - name: Initialize Git User
+        run: |
+          git config --global user.email "ciaffardini.g@gmail.com"
+          git config --global user.name "jimmysafe"
+
       - name: Run Release
         run: yarn release --ci
         env:
