@@ -1,5 +1,12 @@
 
 
+## [1.2.0](https://github.com/jimmysafe/release-test/compare/1.1.1...1.2.0) (2022-10-01)
+
+
+### Features
+
+* add depth ([fd24437](https://github.com/jimmysafe/release-test/commit/fd244379e23d21feda7bf859fdb3fa03b4ea08b6))
+
 ## 1.1.1 (2022-10-01)
 
 ## 1.1.0 (2022-10-01)
