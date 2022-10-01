@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/jimmysafe/release-test/compare/1.2.0...1.3.0) (2022-10-01)
+
+
+### Features
+
+* add readme ([d58364c](https://github.com/jimmysafe/release-test/commit/d58364c4b86345ce5821ab49404ec4bf5da84603))
+
 ## [1.2.0](https://github.com/jimmysafe/release-test/compare/1.1.1...1.2.0) (2022-10-01)
 
 
