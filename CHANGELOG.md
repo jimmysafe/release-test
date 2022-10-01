@@ -1,5 +1,12 @@
 
 
+## [1.4.0](https://github.com/jimmysafe/release-test/compare/1.3.0...1.4.0) (2022-10-01)
+
+
+### Features
+
+* **WRM-3565:** test jira ticket ([d984a17](https://github.com/jimmysafe/release-test/commit/d984a1799c30ce45a594e6ad0fec043201d7dea9))
+
 ## [1.3.0](https://github.com/jimmysafe/release-test/compare/1.2.0...1.3.0) (2022-10-01)
 
 
