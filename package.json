@@ -15,6 +15,7 @@
   },
   "release-it": {
     "git": {
+      "requireBranch": "master",
       "commitMessage": "chore: release v${version}"
     },
     "github": {

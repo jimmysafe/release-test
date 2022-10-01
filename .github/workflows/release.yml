@@ -18,7 +18,9 @@ jobs:
           persist-credentials: false
 
       - name: deps
-        run: npm i @release-it/conventional-changelog
+        run: |
+        npm i release-it
+        npm i @release-it/conventional-changelog
 
       - name: release-it
         uses: TheRealWaldo/release-it@v0.7.2
