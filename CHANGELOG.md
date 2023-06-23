@@ -1,5 +1,16 @@
 
 
+## [2.0.0](https://github.com/jimmysafe/release-test/compare/1.7.1...2.0.0) (2023-06-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* **major:** cmon man i just told you
+
+### Bug Fixes
+
+* **major:** major ([4067a00](https://github.com/jimmysafe/release-test/commit/4067a002b831368cfe66c982aef7fd15830a4818))
+
 ## [1.7.1](https://github.com/jimmysafe/release-test/compare/1.7.0...1.7.1) (2023-06-23)
 
 ## [1.7.0](https://github.com/jimmysafe/release-test/compare/1.6.0...1.7.0) (2023-06-23)
