@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Install Dependencies
-        run: yarn install --frozen-lockfile
+        run: HUSKY=0 yarn install --frozen-lockfile
 
       - name: Initialize Git User
         run: |

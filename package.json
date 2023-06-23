@@ -4,48 +4,21 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "release": "release-it"
+    "release": "release-it",
+    "commit": "git commit -m 'to-be-replaced'"
   },
-  "dependencies": {
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
     "@release-it/conventional-changelog": "^5.1.0",
+    "commitizen": "^4.3.0",
     "husky": "^8.0.1",
     "release-it": "^15.4.2"
   },
-  "release-it": {
-    "git": {
-      "requireBranch": "master",
-      "commitMessage": "chore: release v${version}"
-    },
-    "hooks": {
-      "before:init": [
-        "git pull origin master"
-      ]
-    },
-    "github": {
-      "release": true
-    },
-    "npm": {
-      "publish": false
-    },
-    "plugins": {
-      "@release-it/conventional-changelog": {
-        "infile": "CHANGELOG.md",
-        "preset": {
-          "name": "conventionalcommits",
-          "types": [
-            {
-              "type": "feat",
-              "section": "Features"
-            },
-            {
-              "type": "fix",
-              "section": "Bug Fixes"
-            }
-          ]
-        }
-      }
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
