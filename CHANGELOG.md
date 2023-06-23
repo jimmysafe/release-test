@@ -1,5 +1,17 @@
 
 
+## [1.7.0](https://github.com/jimmysafe/release-test/compare/1.6.0...1.7.0) (2023-06-23)
+
+
+### Features
+
+* **controller:** add stuff ([e9efb33](https://github.com/jimmysafe/release-test/commit/e9efb330421a2b6591cb6f031680e17376a98574))
+
+
+### Bug Fixes
+
+* **main:** remove useless class ([fb974ae](https://github.com/jimmysafe/release-test/commit/fb974aef56ff75c25b0000f25b3bee234a08a6f7))
+
 ## [1.6.0](https://github.com/jimmysafe/release-test/compare/1.5.0...1.6.0) (2023-06-23)
 
 
