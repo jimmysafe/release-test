@@ -1,5 +1,14 @@
 
 
+## [1.6.0](https://github.com/jimmysafe/release-test/compare/1.5.0...1.6.0) (2023-06-23)
+
+
+### Features
+
+* add some stuff ([26fe6ed](https://github.com/jimmysafe/release-test/commit/26fe6edc9c2d7eaa68e093edd7b87e27ec1614ab))
+* remove some stuff ([896855e](https://github.com/jimmysafe/release-test/commit/896855e43ffc6a42a7c975482c26fc4d1557a1cd))
+* **WRM-3565:** manual trigger ([5a7af4e](https://github.com/jimmysafe/release-test/commit/5a7af4ed0c86b1808444c93b190b29f6171fa263))
+
 ## [1.5.0](https://github.com/jimmysafe/release-test/compare/1.4.0...1.5.0) (2022-10-01)
 
 
