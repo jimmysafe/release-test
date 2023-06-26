@@ -1,5 +1,12 @@
 
 
+## [2.0.3](https://github.com/jimmysafe/release-test/compare/2.0.2...2.0.3) (2023-06-26)
+
+
+### Bug Fixes
+
+* **class:** asdasdads ([f8953ab](https://github.com/jimmysafe/release-test/commit/f8953ab9b8cffe0a72d9c59fa7d81e4dee702dad))
+
 ## [2.0.2](https://github.com/jimmysafe/release-test/compare/2.0.1...2.0.2) (2023-06-26)
 
 
