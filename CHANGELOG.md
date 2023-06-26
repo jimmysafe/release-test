@@ -1,5 +1,12 @@
 
 
+## [2.1.0](https://github.com/jimmysafe/release-test/compare/2.0.3...2.1.0) (2023-06-26)
+
+
+### Features
+
+* **user:** add user controller class ([fbdf712](https://github.com/jimmysafe/release-test/commit/fbdf71249a8e2016a7c9cc44f1545b70497e6af0))
+
 ## [2.0.3](https://github.com/jimmysafe/release-test/compare/2.0.2...2.0.3) (2023-06-26)
 
 
