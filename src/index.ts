@@ -1,1 +1,1 @@
-export class Squash {}
+export class Test123 {}
