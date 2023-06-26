@@ -1,5 +1,7 @@
 
 
+## [2.0.1](https://github.com/jimmysafe/release-test/compare/2.0.0...2.0.1) (2023-06-26)
+
 ## [2.0.0](https://github.com/jimmysafe/release-test/compare/1.7.1...2.0.0) (2023-06-23)
 
 
