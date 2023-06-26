@@ -1,5 +1,18 @@
 
 
+## [2.0.2](https://github.com/jimmysafe/release-test/compare/2.0.1...2.0.2) (2023-06-26)
+
+
+### Bug Fixes
+
+* **asd:** asd ([5bbde3e](https://github.com/jimmysafe/release-test/commit/5bbde3ee5ec3b715587fa2d7e80c29893b6fa24d))
+* **bumper:** this should bump patch as its a fix ([f94ff3b](https://github.com/jimmysafe/release-test/commit/f94ff3bb36539df20c3bbf3b47ecff573c531483))
+
+
+### Builds
+
+* **squash:** asdasd ([6dc68dc](https://github.com/jimmysafe/release-test/commit/6dc68dcd72bb6fdc89546014e49cb628c192654a))
+
 ## [2.0.1](https://github.com/jimmysafe/release-test/compare/2.0.0...2.0.1) (2023-06-26)
 
 ## [2.0.0](https://github.com/jimmysafe/release-test/compare/1.7.1...2.0.0) (2023-06-23)
